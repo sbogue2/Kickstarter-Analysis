@@ -26,9 +26,11 @@ See the table below:
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Theater Kickstarter campaigns were most successful when launched in May and June, and least successful when launched in December. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 Goal amount had a substantial effect on the outcome of theater Kickstarter campaigns. Campaigns were less than 50% successful with goals of less than $20,000 and were 100% successful with goals in the $45,000 - $49,999 range. In fact, campaigns remained very successful in the $50,000 and above range, with 90% of campaigns resulting in a success. 
 
 - What are some limitations of this dataset?
