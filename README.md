@@ -31,8 +31,12 @@ Theater Kickstarter campaigns were most successful when launched in May and June
 
 - What can you conclude about the Outcomes based on Goals?
 
-Goal amount had a substantial effect on the outcome of theater Kickstarter campaigns. Campaigns were less than 50% successful with goals of less than $20,000 and were 100% successful with goals in the $45,000 - $49,999 range. In fact, campaigns remained very successful in the $50,000 and above range, with 90% of campaigns resulting in a success. 
+Goal amount had a substantial effect on the outcome of theater Kickstarter campaigns. Campaigns were less than 50% successful with goals of less than $20,000 and were 100% successful with goals in the $45,000 - $49,999 range. Ninety percent of Kickstarter campaigns at the $50,000 range and above were successful as well.   
 
 - What are some limitations of this dataset?
 
+One limitation is that the dataset doesn't go into more detail on the genre of plays. I'm sure there are some genres that are more popular than others and that would effect the success of the Kickstarter campaign. 
+
 - What are some other possible tables and/or graphs that we could create?
+
+We could look at the effect that Kickstarter campaign length has on success by using the DAYS() function to calculate the number of days each campaign ran. We would need to calculate descriptive statistics for the Successful and Unsuccessful outcome groups and create a box and whisker plot from those statistics. This would allow us to evaluate the effect of time on outcomes.   
